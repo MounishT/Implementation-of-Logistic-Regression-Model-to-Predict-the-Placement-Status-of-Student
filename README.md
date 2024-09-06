@@ -105,7 +105,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![ML-4 9](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/9090e09b-e103-449f-ba4b-9ab24ba7e50b)
 
-![ml-4 10](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/125fbfdc-cf85-47f1-bb52-d49ebd3cf15a)
+
 
 
 
